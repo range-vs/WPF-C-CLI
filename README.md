@@ -4,6 +4,7 @@
 * MVVM
 * Events
 * Load window from xaml - file
+* .NET Framework
 * Constructor XAML is Worked!
 
 Code tesing in Visual Studio 2019. For the ability to connect assemblies:
